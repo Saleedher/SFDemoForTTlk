@@ -23,3 +23,7 @@ We must have installed Service Fabric SDK3.0 or above in our machine to have the
 Open New Project (Ctrl+Shift+N) - Create a new Service Fabric Project. I will get a list of Project Templates as shown in the image
 I named it as "HelloWorldStateless". When I click OK there will be 2 projects available in the solution explorer. One is a Publisher Project & another is a Stateless Service
 We don't do any Coding activities in the Publisher projects as it is mentioned to be used for configuring the publish & deployment activities of the microservice.
+
+Happy coding.... with cheers!!
+
+Saleedher
