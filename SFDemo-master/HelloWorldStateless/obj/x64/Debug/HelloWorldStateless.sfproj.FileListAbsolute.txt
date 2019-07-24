@@ -1,0 +1,1 @@
+F:\SFDemo-master\SFDemo-master\HelloWorldStateless\obj\x64\Debug\HelloWorldStateless.sfproj.CoreCompileInputs.cache
